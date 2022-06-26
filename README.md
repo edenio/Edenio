@@ -2,7 +2,7 @@
 
 ### I'm Edenio Oliveira, I'm a Systems Developer Analyst at Casa&Video, and I've been working in tech since 2014.
 
-### Technologies
+### :eight_pointed_black_star: Technologies
 
 ###These are some of the technologies and tools that I work with:
 
