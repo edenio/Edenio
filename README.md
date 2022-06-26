@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm Edenio Oliveira, I'm a Systems Developer Analyst at Casa&Video, and I've been working in tech since 2014.
+
 <!--
 **edenio/Edenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
