@@ -13,7 +13,7 @@
                   
  <div>
 <a href="https://github.com/edenio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenio&layout=compact&langs_count=7&theme=dracula"/>
+<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!--
